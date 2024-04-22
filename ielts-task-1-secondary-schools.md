@@ -57,6 +57,12 @@ The essay demonstrates a reasonable range of grammatical structures, but there a
 
 The essay provides a basic summary of the data, identifying some trends and changes over time. However, it lacks detailed analysis and misses opportunities to use more precise data and comparisons. Additionally, improvements in vocabulary use, sentence structure, and grammatical accuracy could enhance the overall effectiveness of the writing. Based on the criteria, an overall score of **6.0** seems appropriate, reflecting competent use of English to accomplish the task with some noticeable limitations.
 
+## 更正语法错误后的原文
+
+The chart summarizes the most popular secondary school attendance and provides the proportion and the trend of attendance in 2000, 2005, and 2009. 
+From what's being provided in the chart, we can see that there are four major categories of secondary schools, which are Specialist Schools, Grammar Schools, Voluntary-controlled Schools and Community Schools. All of them share a fairly large portion of the Attendance. 
+The Specialist Schools happened to take a steady portion all the time, yet the other three appear to constantly switching places. Voluntary-controlled Schools used to be the most popular choice in 2000, but the situation drastically changed, it started with an overwhelmingly 52% of the market share and still kept 38% in 2005, however, it soon shrank to 20% in 2009, making it the second most popular choice by that time. In contrast to Voluntary controlled schools, the Community Schools' market share climbed continuously in the three years mentioned in the chart, started as one of the least popular choices, and became the most popular choice by 2009. People appeared to lose interest in Grammar Schools as well, as the grammar school lost half of its share by 2009 as it used to have in 2000.
+
 ## 修改后的范文
 
 The table provides a detailed comparison of the proportions of pupils attending four different types of secondary schools in the years 2000, 2005, and 2009.
